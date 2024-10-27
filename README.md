@@ -57,7 +57,7 @@ Follow these steps to compile and run the shell on your Linux machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/custom-shell.git
+   git clone https://github.com/mrinal-das/custom-shell.git
    cd custom-shell
    ```
 
@@ -205,23 +205,19 @@ Contributions are welcome! Feel free to fork this repository, submit issues, or 
 
 ---
 
-## **License** 📝
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use it as you wish.
-
----
 
 ## **Acknowledgements** 🙌
 
-Special thanks to **Suprotik Dey** for inspiring this project with the original shell implementation.
+Special thanks to **geeksforgeeks** for inspiring this project with the original shell implementation.
 
 ---
 
 ## **Contact** 📧
 
 If you have any questions or suggestions, feel free to reach out:  
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [mrianl-das](https://github.com/mrinal-das)
+- **Email**: mrinaldaskarmakar@gmail.com
 
 ---
 
