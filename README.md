@@ -1,4 +1,4 @@
-# Custome-Shell
+# Custom-Shell
 Here’s a detailed `README.md` template for your **Custom Shell in C** project. This document will showcase your project professionally on GitHub and make it easier for recruiters to understand the work you’ve done.
 
 ---
